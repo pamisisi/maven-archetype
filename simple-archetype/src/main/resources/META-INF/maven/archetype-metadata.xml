@@ -10,7 +10,7 @@
       </includes>
     </fileSet>
     <fileSet encoding="UTF-8">
-      <directory>src/main/java</directory>
+      <directory>src/main/resources</directory>
       <includes>
         <include>**/*.md</include>
       </includes>
@@ -22,7 +22,7 @@
       </includes>
     </fileSet>
     <fileSet encoding="UTF-8">
-      <directory>src/test/java</directory>
+      <directory>src/test/resources</directory>
       <includes>
         <include>**/*.md</include>
       </includes>

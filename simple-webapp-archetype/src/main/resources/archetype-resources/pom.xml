@@ -23,7 +23,7 @@
 		<finalName>${artifactId}</finalName>
 		<plugins>
 			<plugin>
-				<!-- 指定 JDK 版本 -->
+				<!-- JDK Version -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
