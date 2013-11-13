@@ -10,7 +10,6 @@
   <name>simple-webapp-archetype</name>
 
   <build>
-  
     <extensions>
       <extension>
         <groupId>org.apache.maven.archetype</groupId>
