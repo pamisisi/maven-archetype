@@ -13,5 +13,5 @@ My maven archetypes
 > cd simple-archetype  
 > mvn install  
 
-> cd simple-webapp-archetype
-> mvn install
+> cd simple-webapp-archetype  
+> mvn install  
