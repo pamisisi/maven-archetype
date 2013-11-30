@@ -11,14 +11,7 @@
 	<constant name="struts.convention.default.parent.package" value="myAppName-default" />
 
 	<package name="myAppName-default" extends="struts-default">
-
-		<interceptor-stack name="myAppName-stack">
-			<!-- struts2-core default interceptor-stack -->
-			<interceptor-ref name="defaultStack" />
-		</interceptor-stack>
-
-		<default-interceptor-ref name="myAppName-stack" />
-
+		
 	</package>
 	
 </struts>

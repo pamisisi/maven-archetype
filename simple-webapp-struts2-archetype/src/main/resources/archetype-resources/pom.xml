@@ -63,6 +63,7 @@
 			<artifactId>struts2-junit-plugin</artifactId>
 			<version>${struts2.version}</version>
 		</dependency>
+		-->
 		
 		<dependency>
 			<groupId>junit</groupId>
@@ -70,7 +71,7 @@
 			<version>${junit.version}</version>
 			<scope>test</scope>
 		</dependency>
-		-->
+		
 	</dependencies>
 	
 	<build>
