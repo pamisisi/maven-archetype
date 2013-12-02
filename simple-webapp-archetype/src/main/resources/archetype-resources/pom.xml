@@ -37,10 +37,10 @@
 				<!-- Configured for direct deployment Tomcat 7 -->
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
-				<version>2.1</version>
+				<version>2.2</version>
 				<configuration>
 					<server>tomcat7</server>
-					<url>http://alex.gov:8090/manager/text</url>
+					<url>http://pamisisi.gov:8080/manager/text</url>
 				</configuration>
 			</plugin>
 		</plugins>
